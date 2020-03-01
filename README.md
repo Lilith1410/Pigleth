@@ -3,7 +3,9 @@ piggy bank your pension fund
 
 ### Prerequisites
 if you don't have git and npm installed, you can install it as follows
+
 npm: `apt-get install npm`
+
 git: `apt-get install git`
 
 ### Installing
