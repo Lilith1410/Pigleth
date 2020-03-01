@@ -20,15 +20,19 @@ installing all required npm scripts
 
 `npm start`
 Starts the project in dev mode.
+
 Now you can browse [http://localhost:3000](http://localhost:3000) to use Pigleth.
 
 ## Built With
 [React](http://reactjs.org)
+
 [Remix](http://remix.ethereum.org)
+
 [DappHero](https://www.dapphero.io/)
 
 ## Authors
 [Valerie Vaske](https://github.com/Lilith1410/)
+
 [Kurt Merbeth](https://github.com/KurtMerbeth)
 
 ## Acknowledgements
