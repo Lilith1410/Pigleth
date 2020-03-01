@@ -4,6 +4,9 @@ piggy bank your pension fund
 ## Getting started 
 
 ### Prerequisites
+`git clone` 
+
+``
 
 ### Installing 
 
